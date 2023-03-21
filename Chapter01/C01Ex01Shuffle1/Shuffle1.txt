@@ -1,0 +1,3 @@
+class C01Ex01Shuffle1 {
+	public static void main (String[] args) {
+		
